@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.currency-dropdown {
+  background-color: #93e499 !important;
+  color: #fff;
+}
+
+div.dropdown-menu {
+  background-color: #93e499;
+  color: #fff;
+}  
+
+
